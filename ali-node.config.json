@@ -1,0 +1,6 @@
+{
+    "appid": "123",
+    "secret": "xxx",
+    "logdir": "/tmp/admin-server",
+    "packages": "~/sqxy/admin-server/package.json"
+}
